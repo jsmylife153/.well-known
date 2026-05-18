@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jsbrain.training",
-    "sha256_cert_fingerprints": ["3E:72:A9:8D:96:C4:84:A6:61:3B:1A:A1:D0:33:63:4F:98:A7:9E:67:A4:88:53:75:AC:C2:55:28:E1:74:23:DB"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jsbrain.training",
+      "sha256_cert_fingerprints": [
+        "3E:72:A9:8D:96:C4:84:A6:61:3B:1A:A1:D0:33:63:4F:98:A7:9E:67:A4:88:53:75:AC:C2:55:28:E1:74:23:DB",
+        "11:E3:1C:9F:A9:AF:2B:A6:B9:C6:AB:57:1D:17:36:E4:D7:F1:D9:59:26:CB:5C:01:A2:48:8A:6E:B2:53:0A:B7"
+      ]
+    }
   }
-}]
+]
